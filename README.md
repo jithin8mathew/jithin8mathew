@@ -1,9 +1,9 @@
 ### Hi there, I'm Jithin 👋
 
-<header><
+<header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   
-  /header>
+  </header>
 <body>
 <i class="devicon-android-plain colored"></i>
   </body>
