@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
-- 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   
