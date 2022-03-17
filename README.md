@@ -1,7 +1,7 @@
 ### Hi there, I'm Jithin 👋
-
-<p>
   <center>
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"  height="50"/>
@@ -36,8 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50"  height="50"/>
-    </center>
+
 </p>
+      </center>
 
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
