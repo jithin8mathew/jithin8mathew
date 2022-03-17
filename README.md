@@ -1,9 +1,5 @@
 ### Hi there, I'm Jithin 👋
 
-<style>
-p {text-align: center;}
-</style>
-
   <center>
 <p>
 
