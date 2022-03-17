@@ -1,11 +1,7 @@
 ### Hi there, I'm Jithin 👋
 
-- 🔭 I’m currently working on Android, iOS app development and Machine Learning.
-- 🌱 I’m currently learning Swift, GUI development 
-
 <center display: inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"  height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" width="50"  height="50"/>
@@ -37,6 +33,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50"  height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50"  height="50"/>
   </center>
+
+- 🔭 I’m currently working on Android, iOS app development and Machine Learning.
+- 🌱 I’m currently learning Swift, GUI development 
+
+
 
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
