@@ -51,6 +51,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
 
+![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact)](https://github.com/jithin8mathew/github-readme-stats)
 
 <!--
