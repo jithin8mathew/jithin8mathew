@@ -45,13 +45,11 @@
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
 
-<p align="center">
   - Stats
 [![Visits Badge](https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
-</p>
 
 
 
