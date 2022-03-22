@@ -51,7 +51,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact)](https://github.com/jithin8mathew/github-readme-stats)
 
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
