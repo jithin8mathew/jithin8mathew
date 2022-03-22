@@ -2,8 +2,6 @@
 [![Jithin GitHub banner](./assets/CoverPictureJJM.png)](https://github.com/jithin8mathew)
 
 #### Currently working with or worked with at some point and time.
-
-  <center>
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" />
@@ -48,9 +46,11 @@
 - 🌱 I’m currently learning Swift, GUI development 
 
 <p align="center">
+  - Stats
 [![Visits Badge](https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
+  
 </p>
 
 
