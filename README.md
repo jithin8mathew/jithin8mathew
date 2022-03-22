@@ -1,5 +1,5 @@
 ### Hi there, I'm Jithin 👋
-[![Jithin GitHub banner](./assets/CoverPicture.png)]
+[![Jithin GitHub banner](./assets/CoverPictureJJM.png)]
 
 #### Currently working with or worked with at some point and time.
 
