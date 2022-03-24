@@ -50,9 +50,10 @@
 [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
+  
 
 ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats)
 
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
