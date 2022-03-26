@@ -51,16 +51,25 @@
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
   
-
-![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+<!-- ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats) -->
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko" />
+  </a>
+</p>
     
- [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction)
+<!--  [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction) -->
 
 <p align="center">
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko" />
-  </a>
+ </a>
+  
+   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Bioinformatics&theme=merko" />
+   </a>
+  
   </p>
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
