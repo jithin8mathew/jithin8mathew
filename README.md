@@ -54,6 +54,8 @@
 
 ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats)
+    
+ [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction)
 
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
