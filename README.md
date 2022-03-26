@@ -1,7 +1,7 @@
 <!-- ### Hi there, I'm Jithin 👋 -->
 [![Jithin GitHub banner](./assets/CoverPictureJJM.png)](https://github.com/jithin8mathew)
 
-#### Currently working with or worked with at some point and time.
+#### Currently working with or worked with at some point and time with these technologies.
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" />
@@ -45,8 +45,15 @@
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
 
-  - Stats
-[![Visits Badge](https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew)](https://badges.pufler.dev)
+ 
+### 💼 Skills
+
+<p align="center">
+  <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+   <img align="center" style="margin:0.5rem" src=https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew"/>
+  </a>
+ </p>                                                                                                             
+ 
 [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
   
@@ -63,7 +70,7 @@
 </p>
     
 <!--  [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction) -->
-
+### 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko" />
