@@ -57,6 +57,9 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko)](https://github.com/jithin8mathew/github-readme-stats) -->
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko" />
   </a>
+  <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko" />
+  </a>
 </p>
     
 <!--  [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction) -->
