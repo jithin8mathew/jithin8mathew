@@ -1,6 +1,10 @@
 <!-- ### Hi there, I'm Jithin 👋 -->
 [![Jithin GitHub banner](./assets/CoverPictureJJM.png)](https://github.com/jithin8mathew)
 
+ <p align="center">
+-----------------💼 Skills------------------
+ </p>
+
 #### Currently working with or worked with at some point and time with these technologies.
 <p align="center">
 
@@ -45,9 +49,6 @@
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
 
- <p align="center">
-### -----------------💼 Skills------------------
- </p>
 
 <p align="center">
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
