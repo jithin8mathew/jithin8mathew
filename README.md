@@ -45,17 +45,27 @@
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 I’m currently learning Swift, GUI development 
 
- 
-### 💼 Skills
+ <p align="center">
+### -----------------💼 Skills------------------
+ </p>
 
 <p align="center">
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
    <img align="center" style="margin:0.5rem" src="https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew"/>
   </a>
+ 
+   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+   <img align="center" style="margin:0.5rem" src="https://badges.pufler.dev/years/jithin8mathew"/>
+  </a>
+ 
+   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+   <img align="center" style="margin:0.5rem" src="https://badges.pufler.dev/repos/jithin8mathew"/>
+  </a>
+ 
  </p>                                                                                                             
  
-[![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/jithin8mathew)](https://badges.pufler.dev) -->
   
   
 <p align="center">
