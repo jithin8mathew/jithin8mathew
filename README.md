@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
-   <img align="center" style="margin:0.5rem" src=https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew"/>
+   <img align="center" style="margin:0.5rem" src="https://badges.pufler.dev/visits/jithin8mathew/jithin8mathew"/>
   </a>
  </p>                                                                                                             
  
