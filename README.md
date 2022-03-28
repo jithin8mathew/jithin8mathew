@@ -47,7 +47,8 @@
 
 
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
-- 🌱 I’m currently learning Swift, GUI development 
+- 🌱 Learning Swift, GUI development 
+- ⚡ Working towards the goal of becoming a full-stack developer while pursuing my Ph.D in Precision Agriculture
 
 
 <p align="center">
