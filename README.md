@@ -5,7 +5,7 @@
 -----------------💼 Skills------------------
  </p>
 
-#### Currently working with or worked with at some point and time with these technologies.
+<!-- #### Currently working with or worked with at some point and time with these technologies. -->
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50"  height="50" />
@@ -38,6 +38,7 @@
 
  <p align="center">
 ----------------- 🔭 Tools and Technologies ----------------- 
+ <br>
  <br>
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" width="50"  height="50"/>
