@@ -59,6 +59,13 @@
 - 🔭 I’m currently working on Android, iOS app development and Machine Learning.
 - 🌱 Learning Swift, GUI development 
 - ⚡ Working towards the goal of becoming a full-stack developer while pursuing my Ph.D in Precision Agriculture
+- 🧬 Worked with Perl, and R for scripting during my earlier years in Bioinformatics. 
+- 👨‍💻 :man_technologist: Learned C (first programming language to learn) and C++ for fun, or to meet specific requirements during projects. 
+- 🌐 Learned HTML, CSS, Bootstrap, JS, Flask, PHP for building functional web application, primarily for bioinformatics.
+- 🚀 Have been working with Python, Numpy, Pandas, Tensorflow, Keras, and Pytorch for the past few years for ML and DL application development
+- 🐍 Working with Python 3 to solve almost everything! (Networking, web application, Machine Learning, Data processing)
+- 🌘 Used Matlap primarily for college course work and data processing and have some basic experience with database Management systems
+- 📡 Learning Kotlin, Swift, Android for mobile app dev.    
 
 
 <p align="center">
