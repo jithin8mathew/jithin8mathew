@@ -106,7 +106,7 @@
  </a>
   
    <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Bioinformatics&theme=merko" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Tello_object_detection_demo_application&theme=merko" />
    </a>
   
   </p>
