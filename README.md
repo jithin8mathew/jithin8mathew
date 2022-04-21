@@ -117,7 +117,7 @@
   
   <p align="center">
   <a href="https://skyline.github.com/jithin8mathew/2021">
-   <img align="center" style="margin:0.5rem" src="https://skyline.github.com/jithin8mathew/2021"/>
+   @jithin8mathew's  2021 GitHub Skyline
   </a>
  </p>
 <!--
