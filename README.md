@@ -98,7 +98,7 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jithin8mathew&show_icons=true&theme=merko" />
   </a>
   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin8mathew&layout=compact&theme=merko&langs_count=10" />
   </a>
 </p>
     
