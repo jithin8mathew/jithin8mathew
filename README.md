@@ -81,10 +81,10 @@
    <img align="center" style="margin:0.5rem" src="https://badges.pufler.dev/repos/jithin8mathew"/>
   </a>
  
- <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+<!--  <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
    <img align="center" style="margin:0.5rem" src="https://raw.githubusercontent.com/jithin8mathew/Tello_object_detection_demo_application/views.svg"/>
   </a>
- 
+  -->
  </p>                                                                                                             
  
 <!-- [![Years Badge](https://badges.pufler.dev/years/jithin8mathew)](https://badges.pufler.dev)
