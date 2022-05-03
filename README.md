@@ -109,7 +109,7 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko" />
  </a>
   
-   <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+   <a href="https://github.com/jithin8mathew/Tello_object_detection_demo_application">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Tello_object_detection_demo_application&theme=merko" />
    </a>
   
