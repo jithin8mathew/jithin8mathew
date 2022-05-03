@@ -105,7 +105,7 @@
 <!--  [![jithin pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko)](https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction) -->
 ### 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/jithin8mathew/tailwindcss-v2-dark-mode-template">
+  <a href="https://github.com/jithin8mathew/Protein-feature-extraction">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jithin8mathew&repo=Protein-feature-extraction&theme=merko" />
  </a>
   
