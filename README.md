@@ -120,6 +120,12 @@
    @jithin8mathew's  2021 GitHub Skyline
   </a>
  </p>
+ 
+### 📫 Articles
+ 
+ https://medium.com/@jithin8mathew/estimating-depth-for-yolov5-object-detection-bounding-boxes-using-intel-realsense-depth-camera-a0be955e579a
+ 
+ https://medium.com/@jithin8mathew/building-an-android-application-to-control-tello-drone-flight-and-perform-real-time-object-ab953f6c5f5b
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
