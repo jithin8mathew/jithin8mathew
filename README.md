@@ -119,6 +119,9 @@
   <a href="https://skyline.github.com/jithin8mathew/2021">
    @jithin8mathew's  2021 GitHub Skyline
   </a>
+  <a href="https://skyline.github.com/jithin8mathew/2022">
+   @jithin8mathew's  2022 GitHub Skyline
+  </a>
  </p>
  
 ### 📫 Articles
