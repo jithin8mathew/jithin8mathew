@@ -126,10 +126,12 @@
  </p>
  
 ### 📫 Articles
+
+ [Estimating depth for YOLOv5 object detection bounding boxes using Intel® RealSense™ Depth Camera D435i](https://medium.com/@jithin8mathew/estimating-depth-for-yolov5-object-detection-bounding-boxes-using-intel-realsense-depth-camera-a0be955e579a)
  
- https://medium.com/@jithin8mathew/estimating-depth-for-yolov5-object-detection-bounding-boxes-using-intel-realsense-depth-camera-a0be955e579a
- 
- https://medium.com/@jithin8mathew/building-an-android-application-to-control-tello-drone-flight-and-perform-real-time-object-ab953f6c5f5b
+ [Building an android application to control Tello drone flight and perform real-time object detection using YOLOv5](https://medium.com/@jithin8mathew/building-an-android-application-to-control-tello-drone-flight-and-perform-real-time-object-ab953f6c5f5b)
+
+[Real-time Background Segmentation (without machine learning) using Intel® RealSense™ D405 Depth Camera and Python3](https://medium.com/@jithin8mathew/real-time-background-segmentation-without-machine-learning-intel-realsense-d405-depth-camera-9b07bd0f15a6)
 <!--
 **jithin8mathew/jithin8mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
